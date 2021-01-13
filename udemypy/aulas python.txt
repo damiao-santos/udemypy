@@ -1,0 +1,25 @@
+print - funciona como o console.log do javascript e printa na tela o que estiver dentro dele
+
+pip install "modulo qualquer" - instala um modulo adicional de sua necessidade pelo terminal com a virtualenv
+
+todo arquivo python é um modulo python e tem que ter a extensão .py que indica que é um python
+
+em new > python packge, vc cria um diretorio que ja vem com o __init__.py para indicar que um packge e é melhor
+na hora de importar modulo de outros projetos para dentro do outro
+
+Pep8 - é um modelo adotado pela comunidade de como deixar seu codigo python ex( dar dois espaço antes de comentarios)
+
+CRTL+d - no pycharm duplica a linha
+
+# - em python é usada para criar comentarios
+
+""" - 3 aspas duplas significam um doc comment, que é um comentario de mais de uma linha, abrimos ele com as 3 aspas
+e também devemos fechar com as mesmas 3 aspas, pode ser com asplas simples tbm(''')
+
+A função print alem de mostrar coisas na tela serve para debugar, ao utilizar () estamos nos referindo ou a uma função
+ou a uma classe, e funções executam ações
+
+sep='-' - é um argumento nomeado nesse caso pede que o argumento em print tenha um traço
+end= - insere um argumento da sua escolha no fim da linha ex:end='' que tira a quebra de linha
+
+python diferencia maiusculo de minusculo ex: print() é diferente de Print()
