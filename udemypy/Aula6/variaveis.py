@@ -58,7 +58,7 @@ imc = peso / altura ** 2
 
 print(nome, 'tem', idade, 'anos e seu IMC é:', imc) retorna damiao tenorio tem 30 anos e seu IMC é: 26.122448979591837
 
-
+.
 '''
 
 #exercicio calcula o IMC
