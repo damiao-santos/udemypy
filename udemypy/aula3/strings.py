@@ -19,4 +19,4 @@ mas não é indicado trabalhar desta forma, a melhor forma são as aspas
 
 '''
 
-print(r"esta é uma \n (str)."
+print(r"esta é uma \n (str).")
