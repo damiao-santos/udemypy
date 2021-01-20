@@ -44,7 +44,7 @@ idade = int(input('Qual a sua idade: '))
 
 #limite para emprestimo
 idade_menor = 20 #muito jovem
-idade_maior = 30 #muito velho
+idade_maior = 50 #muito velho
 
 if idade >= idade_menor and idade <= idade_maior:
     print(f'{name} pode pegar emprestimo')
